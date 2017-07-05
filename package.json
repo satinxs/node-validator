@@ -1,12 +1,12 @@
 {
-  "name": "validator",
+  "name": "fluent-validator",
   "version": "0.0.1",
   "description": "",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/satinxs/node-validator.git"
   },
-  "author": "satinxs (satinxs@gmail.com)",
+  "author": "satinxs",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/satinxs/node-validator/issues"
